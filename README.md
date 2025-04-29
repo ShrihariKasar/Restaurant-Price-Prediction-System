@@ -92,7 +92,6 @@ Restaurant-Price-Prediction-System/
 
 - **Shrihari Kasar**
 - **Utkarsha Kakulte**
-- **Rohit Khadangle**
 
 ---
 
