@@ -29,7 +29,6 @@ Restaurant-Price-Prediction-System/
 - Predict restaurant price based on location, category, and rating.
 - User-friendly interface for input and prediction.
 - Trained regression model using real restaurant data.
-- Responsive frontend with clean HTML/CSS design.
 
 ---
 
@@ -76,14 +75,6 @@ Restaurant-Price-Prediction-System/
 
 ---
 
-## 🔄 Optional PHP Integration
-
-To use with PHP (if required):
-- Replace `app.py` Flask backend with a PHP API or connect PHP to Flask using REST calls.
-- Use `predict.php` to make a `POST` request to the Flask server and fetch predictions dynamically.
-
----
-
 ## ✨ Technologies Used
 
 - **Machine Learning**: scikit-learn, pandas
@@ -92,8 +83,8 @@ To use with PHP (if required):
 ---
 
 ## 📷 Screenshot
-
-> *(Insert a screenshot of your UI here)*
+### RESULT
+> ![RESULT](https://github.com/ShrihariKasar/Restaurant-Price-Prediction-System/blob/main/Screenshot%20(213).png)
 
 ---
 
